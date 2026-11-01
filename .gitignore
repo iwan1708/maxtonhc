@@ -1,0 +1,11 @@
+data/
+.env
+.env.*
+!.env.example
+.agents/
+skills-lock.json
+node_modules/
+test-results/
+/docs/
+/references/
+/desain.md
